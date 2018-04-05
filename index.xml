@@ -1,129 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amber Thomas</title>
-    <link>/</link>
-    <description>Recent content on Amber Thomas</description>
+    <title>Projects on Amber Thomas</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Amber Thomas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Amber Thomas</copyright>
-    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Making Multi-Argument Functions &amp; Data Frames Purrr</title>
-      <link>/blog/2018/03/26/purrr_iterations/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2018/03/26/purrr_iterations/</guid>
-      <description>Why purrr? Functions with One Argument Functions with Two Arguments Functions with 3 or More Arguments Crossing Your Argument Vectors   Why purrr? Ah, the purrr package for R. Months after it had been released, I was still simply amused by all of the cat-related puns that this new package invoked, but I had no idea what it did. What did it mean to make your functions “purr”?</description>
-    </item>
-    
-    <item>
-      <title>A Tale of Two Cities</title>
-      <link>/work/2018/03/21/neighborhoods/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2018/03/21/neighborhoods/</guid>
-      <description>Read the Story • Download the Data  The Premise When you love the city where you live, you often have personal connections and memories tied to the different corners of the city’s limits. In this story, we wanted to combine our personal experiences in Seattle and New York City’s neighborhoods, with data about the businesses that operate in those neighborhoods. Do we have different perceptions of areas with an overabundance of massage parlors than we do to an area with a ton of doctors?</description>
-    </item>
-    
-    <item>
-      <title>Greetings from Mars</title>
-      <link>/work/2018/02/01/mars-weather/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2018/02/01/mars-weather/</guid>
-      <description>Read the Story • Download the Data  The Premise I discovered that the Curiosity Rover transmitted weather data (amongst other types of data) back to Earth nearly every day. I decided that in order to have the reader understand what weather conditions are like on Mars, the data needed to be made personal. With Curiosity as my inspiration, I wrote the story from the rover’s perspective in the form of digital “postcards”.</description>
-    </item>
-    
-    <item>
-      <title>10 Things Everyone Hates About You</title>
-      <link>/work/2017/12/04/haterdater/</link>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/12/04/haterdater/</guid>
-      <description>Read the Story The Premise My Contributions Collaborators Screenshots   Read the Story  The Premise Using data from the new-age dating app, Hater, we can learn about the types of things that people in the US love, hate, and can never agree on.
- My Contributions  Data Analysis Story Writing Some front-end work (primarily the swarm chart) Static chart design Social image creation   Collaborators This project was done in collaboration with Russell Goldenberg at The Pudding.</description>
-    </item>
-    
-    <item>
-      <title>Adding Syntax Highlighting to Blogdown Posts</title>
-      <link>/blog/2017/11/15/syntax-highlighting/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2017/11/15/syntax-highlighting/</guid>
-      <description>The Backstory Step One: Check Your Theme Step Two: Add Highlight.js Step Three: Blame Bootstrap   The Backstory I’ve been playing with Yihui Xie’s blogdown package for almost a year now, and I’m constantly amazed by all of the things that it can do. Maybe I’ll get around to turning this post into a series, with each addition explaining one more cool thing that you can now add to your blog posts from R.</description>
-    </item>
-    
-    <item>
-      <title>How far is too far?</title>
-      <link>/work/2017/09/08/clinics/</link>
-      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/09/08/clinics/</guid>
-      <description>Read the Story  The Premise For some people in the US, round-trip travel time to the nearest abortion-providing clinic can be about nine hours. We set out to quantify access to abortion clinics by measuring what really affects people: how long it takes to drive there.
- My Contributions  Data Collection Some Data Analysis Some Graphical Mockups Animation Story Writing   Collaborators This project was done in collaboration with many of the fine folks at The Pudding.</description>
-    </item>
-    
-    <item>
-      <title>Table for One</title>
-      <link>/work/2017/07/27/eatingalone/</link>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/07/27/eatingalone/</guid>
-      <description>Read the Story  The Premise Americans are beginning to spend more of their mealtimes solo. What does that look like for the US as a community of people? We explore the data surrounding the dining habits and companions of Americans.
- My Contributions  Story Design Front-End Development (HTML, CSS, and D3)   Collaborators The data collection, analysis, graphic wireframes, and story-writing for this project came from Henrik Lindberg.</description>
-    </item>
-    
-    <item>
-      <title>Free Willy and Flipper by the Numbers</title>
-      <link>/work/2017/07/06/cetaceans/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/07/06/cetaceans/</guid>
-      <description>Read the Story • Download the Data  The Premise Around the world, people seem to have mixed feelings about whales and dolphins that live in aquariums. While it may be easy (and for some people even preferable) to say that the solution is to release all of the animals back to the ocean, their past makes it more difficult. In this story, we explore the data of where captive whales and dolphins in the US came from, their survival rate, and the projected timing of extinction for these animals in a captive setting.</description>
-    </item>
-    
-    <item>
-      <title>Nesting and Accessing Data in d3v4</title>
-      <link>/blog/2017/05/02/d3nest/</link>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2017/05/02/d3nest/</guid>
-      <description>Introduction Before Nesting Nest Level 1 Rollup Level 1  Sorting Keys  Nest Level 2  Styling Nested Elements  Creating Dropdown Menus from 1st Level Nests Rollup Level 2 Creating Dropdown Menus from 2nd Level Nests  Introduction While learning how to make interactive data visualizations using d3.js, I ran into an issue with something new to me: nests. The general idea is that data sometimes needs to be grouped based on certain variables and the groups need to be analyzed or graphed separately.</description>
-    </item>
-    
-    <item>
-      <title>The Timing of Baby Making</title>
-      <link>/work/2017/05/24/babytiming/</link>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/05/24/babytiming/</guid>
-      <description>Read the Story • Download the Data  The Premise Every time there is some sort of large scale storm (e.g., blizzard or hurricane) or big sports win, I seem to hear everyone chatting about how there will be a baby boom in that area 9 months later. Driven by the curiosity to see if there was any data to back up these claims, I decided to investigate a little further.</description>
-    </item>
-    
-    <item>
-      <title>Making a Website Using Blogdown, Hugo, and GitHub pages.</title>
-      <link>/blog/2016/12/19/creatingsite/</link>
-      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/12/19/creatingsite/</guid>
-      <description>Since the writing of this post, simpler methods of setting up sites have been documented. Check out the blogdown book and keep your eyes peeled for an updated post.
- Introduction  Blogdown Hugo GitHub  Building the Page  Installing Necessary Packages and Software  Setting Up GitHub RStudio and Blogdown  Initializing GitHub pages to work with Hugo and Blogdown  Adding Content  Site Configuration Adding a Page Page Templates and Fixing Blank Pages Adding a Blog Post or Portfolio Piece Adding images  Troubleshooting  Page is Blank Images Aren’t Showing Up Page Has No Formatting My Post Won’t Show Up   Introduction As I transitioned into the data science world, I kept hearing one piece of advice over and over: build a portfolio.</description>
-    </item>
-    
-    <item>
-      <title>She Giggles, He Gallops</title>
-      <link>/work/2017/08/22/screendirections/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/work/2017/08/22/screendirections/</guid>
-      <description>Read the Story  The Premise There have been several projects conducted that show a disparity in film dialogue between male and female characters. But, talking isn’t the only thing important to a movie. The way characters are instructed to act plays a role as well. In this project, we investigate over 2,000 film scripts to find what verbs are more likely to follow the pronouns “he” and “she”.
- My Contributions  Some front-end development (HTML, CSS, and D3)   Collaborators The data collection, analysis, graphic wireframes, and story-writing for this project came from Julia Silge.</description>
-    </item>
     
     <item>
       <title>Gender Equality and Dialogue in 2016’s Highest Grossing Films</title>
@@ -144,15 +31,6 @@
       <guid>/projects/2016/12/27/fcccourses/</guid>
       <description>&lt;p&gt;Cleaning, exploration, interactive visualizations, and machine learning with Free Code Camp&amp;rsquo;s student course completion dataset.
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Online Data Science Classes in R</title>
-      <link>/blog/2016/12/17/dscourses/</link>
-      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2016/12/17/dscourses/</guid>
-      <description>Introduction Prerequisites Courses I’ve Taken  Getting Started in Data Science Getting Started in R R Studio Courses Machine Learning Courses SQL Databases Other Courses  Wrap-Up  Introduction While working as a marine biologist, I decided to switch career tracks slightly and pursue data science. I already had experience in mathematics, R programming and data visualization but filling in other knowledge gaps led me to searching the internet for the best places to learn these skills.</description>
     </item>
     
     <item>
@@ -185,15 +63,6 @@
 
 &lt;p&gt;Data exploration and machine learning in RMarkdown.
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Get in touch</title>
-      <link>/contact/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>/contact/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -296,16 +165,6 @@
       
       <guid>/projects/1/01/01.html</guid>
       <description>{&#34;x&#34;:{&#34;hc_opts&#34;:{&#34;title&#34;:{&#34;text&#34;:null},&#34;yAxis&#34;:{&#34;title&#34;:{&#34;text&#34;:&#34;Number of Words&#34;},&#34;type&#34;:&#34;linear&#34;,&#34;max&#34;:1400},&#34;credits&#34;:{&#34;enabled&#34;:false},&#34;exporting&#34;:{&#34;enabled&#34;:false},&#34;plotOptions&#34;:{&#34;series&#34;:{&#34;turboThreshold&#34;:0,&#34;showInLegend&#34;:false,&#34;marker&#34;:{&#34;enabled&#34;:true}},&#34;scatter&#34;:{&#34;marker&#34;:{&#34;symbol&#34;:&#34;circle&#34;}},&#34;bubble&#34;:{&#34;minSize&#34;:5,&#34;maxSize&#34;:25},&#34;treemap&#34;:{&#34;layoutAlgorithm&#34;:&#34;squarified&#34;}},&#34;series&#34;:[{&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;Character&#34;:&#34;Admiral Raddus&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:13,&#34;Total_Words&#34;:128,&#34;radius&#34;:6.38307648642292,&#34;diameter&#34;:12.7661529728458,&#34;y&#34;:128,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Admiral Raddus&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Announcer&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:3,&#34;Total_Words&#34;:46,&#34;radius&#34;:3.82651992866291,&#34;diameter&#34;:7.65303985732581,&#34;y&#34;:46,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Announcer&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Antenna Computer&#34;,&#34;Sex&#34;:&#34;female&#34;,&#34;speaking_turns&#34;:3,&#34;Total_Words&#34;:19,&#34;radius&#34;:2.45924537968297,&#34;diameter&#34;:4.91849075936593,&#34;y&#34;:19,&#34;color&#34;:&#34;#440154&#34;,&#34;name&#34;:&#34;Antenna Computer&#34;,&#34;colorv&#34;:&#34;female&#34;},{&#34;Character&#34;:&#34;Bail Organa&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:5,&#34;Total_Words&#34;:83,&#34;radius&#34;:5.14001172695692,&#34;diameter&#34;:10.2800234539138,&#34;y&#34;:83,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Bail Organa&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Baze Malbus&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:32,&#34;Total_Words&#34;:168,&#34;radius&#34;:7.31273279143145,&#34;diameter&#34;:14.6254655828629,&#34;y&#34;:168,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Baze Malbus&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Blue Squadron 1&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:2,&#34;Total_Words&#34;:5,&#34;radius&#34;:1.26156626101008,&#34;diameter&#34;:2.52313252202016,&#34;y&#34;:5,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Blue Squadron 1&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Blue Squadron 2&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:3,&#34;radius&#34;:0.97720502380584,&#34;diameter&#34;:1.95441004761168,&#34;y&#34;:3,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Blue Squadron 2&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Blue Squadron 3&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:4,&#34;radius&#34;:1.12837916709551,&#34;diameter&#34;:2.25675833419103,&#34;y&#34;:4,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Blue Squadron 3&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Blue Squadron 4&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:6,&#34;radius&#34;:1.38197659788534,&#34;diameter&#34;:2.76395319577068,&#34;y&#34;:6,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Blue Squadron 4&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Bodhi Rook&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:60,&#34;Total_Words&#34;:820,&#34;radius&#34;:16.1559310060024,&#34;diameter&#34;:32.3118620120047,&#34;y&#34;:820,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Bodhi Rook&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;C3PO&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:13,&#34;radius&#34;:2.03421447256411,&#34;diameter&#34;:4.06842894512822,&#34;y&#34;:13,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;C3PO&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Captain Antilles&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:1,&#34;radius&#34;:0.564189583547756,&#34;diameter&#34;:1.12837916709551,&#34;y&#34;:1,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Captain Antilles&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Cassian&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:140,&#34;Total_Words&#34;:1355,&#34;radius&#34;:20.7680017281162,&#34;diameter&#34;:41.5360034562323,&#34;y&#34;:1355,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Cassian&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Chirrut Imwe&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:36,&#34;Total_Words&#34;:420,&#34;radius&#34;:11.5624457705622,&#34;diameter&#34;:23.1248915411244,&#34;y&#34;:420,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Chirrut Imwe&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Corvette 5&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:12,&#34;radius&#34;:1.95441004761168,&#34;diameter&#34;:3.90882009522336,&#34;y&#34;:12,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Corvette 5&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Dr. Cornelius Evazan&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:1,&#34;Total_Words&#34;:5,&#34;radius&#34;:1.26156626101008,&#34;diameter&#34;:2.52313252202016,&#34;y&#34;:5,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Dr. Cornelius Evazan&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Edrio&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:4,&#34;Total_Words&#34;:25,&#34;radius&#34;:2.82094791773878,&#34;diameter&#34;:5.64189583547756,&#34;y&#34;:25,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Edrio&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Engineers&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:2,&#34;Total_Words&#34;:5,&#34;radius&#34;:1.26156626101008,&#34;diameter&#34;:2.52313252202016,&#34;y&#34;:5,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Engineers&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Flight Control&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:3,&#34;Total_Words&#34;:42,&#34;radius&#34;:3.65636639571573,&#34;diameter&#34;:7.31273279143145,&#34;y&#34;:42,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Flight Control&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Galen&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:21,&#34;Total_Words&#34;:520,&#34;radius&#34;:12.8655019651614,&#34;diameter&#34;:25.7310039303227,&#34;y&#34;:520,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Galen&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;Gate Control&#34;,&#34;Sex&#34;:&#34;male&#34;,&#34;speaking_turns&#34;:5,&#34;Total_Words&#34;:40,&#34;radius&#34;:3.56824823230554,&#34;diameter&#34;:7.13649646461108,&#34;y&#34;:40,&#34;color&#34;:&#34;#FDE725&#34;,&#34;name&#34;:&#34;Gate Control&#34;,&#34;colorv&#34;:&#34;male&#34;},{&#34;Character&#34;:&#34;General Dodonna&#34;</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>TL;DR I’m a marine biologist and science communicator by training, but I’m taking all of the data analysis, statistics, and mathematical modeling skills I’ve learned (and continue to learn) and I’m now applying them to new problems. I’m a full-time “Journalist-Engineer” at Polygraph and The Pudding.
- The Long Version Hey there, I’m Amber. Professionally-speaking, I took a bit of a winding road to get to where I am now. By training, I’m a marine biologist.</description>
     </item>
     
   </channel>
